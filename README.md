@@ -6,8 +6,8 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Hyper-FLUX-jupyter/blob/main/Hyper_FLUX_8_Steps_Lora_jupyter.ipynb) | Hyper_FLUX_8_Steps_Lora_jupyter
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Hyper-FLUX-jupyter/blob/main/Hyper_FLUX_16_Steps_Lora_jupyter.ipynb) | Hyper_FLUX_16_Steps_Lora_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Hyper-FLUX-jupyter/blob/main/Hyper_FLUX_8_Steps_Lora_jupyter.ipynb) | Hyper_FLUX_8_Steps_Lora_jupyter (Pro High-RAM 😐 22GB RAM)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Hyper-FLUX-jupyter/blob/main/Hyper_FLUX_16_Steps_Lora_jupyter.ipynb) | Hyper_FLUX_16_Steps_Lora_jupyter (Pro High-RAM 😐 22GB RAM)
 
 ### 🧬 Code
 https://github.com/ByteDance
